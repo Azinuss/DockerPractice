@@ -49,7 +49,7 @@ $ git clone -b dev https://github.com/Azinuss/DockerPractice.git
 ### Сервер server
 
 После запуска скрипта будет настроен ip route а так же запущены три контейнера
-![image](assets\images\Server_VM.png)
+![image](assets\images\ServerVM.png)
 
 Проверим настройки базы данных в gafna 
 ![image](assets\images\DB_conf-check.png)
